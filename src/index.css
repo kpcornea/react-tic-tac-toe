@@ -30,6 +30,7 @@ ol, ul {
   padding: 0;
   text-align: center;
   width: 34px;
+  cursor: crosshair;
 }
 
 .square:focus {
@@ -47,4 +48,8 @@ ol, ul {
 
 .game-info {
   margin-left: 20px;
+}
+
+.btn {
+  cursor: crosshair;
 }
